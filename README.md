@@ -180,29 +180,50 @@ I run educational YouTube channels focused on simplifying complex engineering co
 
 ---
 
-## GitHub Statistics
+
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethyne2666&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=94a3b8"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ethyne2666&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+    width="420"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethyne2666&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyne2666&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+    width="350"
+  />
+</p>
+
+---
+
+## Connect and Follow
+
+<p align="center">
+  If you are interested in my work, projects, or learning journey, feel free to connect with me.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyne2666&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1"/>
+  <a href="https://github.com/ethyne2666">GitHub Profile</a> |
+  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">LinkedIn Profile</a>
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=60"/>
+</p>
+
+<p align="center">
   <strong>Charan Kumar</strong><br/>
-  Electronics and Communication Engineering Undergraduate<br/>
+  ECE Undergraduate<br/>
   IIIT Kalyani
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=90&section=footer"/>
 </p>
-
