@@ -101,7 +101,7 @@ GitHub: https://github.com/ethyne2666/deal-drop
 ---
 
 ### We Chat | Real Time Messaging App
-A real time chat application using WebSocket based communication.
+A real-time chat application using WebSocket-based communication.
 
 - Secure bidirectional communication between client and server
 - MongoDB used for message storage and persistence
@@ -117,14 +117,14 @@ GitHub: https://github.com/ethyne2666/we-chat
 ### Team Lead | Dailybasis Status Code 2 Hackathon
 IIIT Kalyani
 
-- Led a team through complete project lifecycle under strict deadlines
+- Led a team through the complete project lifecycle under strict deadlines
 - Managed task distribution and version control using Git
 - Coordinated frontend and backend development efforts
 
 ### InnovateX Hackathon
 
 - Contributed to ideation and rapid prototyping of Deal Drop
-- Integrated AI based logic for price trend analysis during the event
+- Integrated AI-based logic for price trend analysis during the event
 
 ---
 
@@ -133,7 +133,7 @@ IIIT Kalyani
 I run educational YouTube channels focused on simplifying complex engineering concepts.
 
 - Topics include Digital Electronics, Computer Architecture, Docker, Git, and core ECE subjects
-- Focus on conceptual clarity and real world understanding
+- Focus on conceptual clarity and real-world understanding
 - Content aimed at students and early career engineers
 
 ---
@@ -155,18 +155,54 @@ I run educational YouTube channels focused on simplifying complex engineering co
 
 ---
 
-## GitHub Activity Overview
+## Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethyne2666&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" width="420"/>
+  If you find my work interesting or useful, feel free to connect and follow me.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyne2666&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1" width="350"/>
+  <a href="https://github.com/ethyne2666">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethyne2666&bg_color=00000000&color=38bdf8&line=38bdf8&point=0ea5e9&area=true&hide_border=true"/>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethyne2666&theme=transparent&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=94a3b8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethyne2666&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyne2666&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=70&section=footer"/>
+  <strong>Charan Kumar</strong><br/>
+  Electronics and Communication Engineering Undergraduate<br/>
+  IIIT Kalyani
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=80&section=footer"/>
+</p>
+
