@@ -1,25 +1,44 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=170&section=header&text=Charan%20Kumar&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=190&section=header&text=Charan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-Full Stack Developer |  Tech Educator | researcher
-</h3>
+<p align="center">
+  <strong>Full Stack Developer</strong> •
+  <strong>Tech Educator</strong> •
+  <strong>Research Oriented Engineer</strong>
+</p>
 
 <p align="center">
-  <a href="https://github.com/ethyne2666">GitHub</a> •
-  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">LinkedIn</a>
+  ECE Undergraduate at IIIT Kalyani
+</p>
+
+<p align="center">
+  <a href="https://github.com/ethyne2666">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C++-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square"/>
 </p>
 
 ---
+
 
 ## Summary
 
 I am an undergraduate student at IIIT Kalyani with a strong focus on web development and software engineering.  
 My work involves building modern, scalable, and responsive applications using current frontend and backend technologies.
 
-I actively explore DevOps fundamentals, cloud deployment workflows, and database driven systems while also creating educational content focused on Electronics and Computer Science fundamentals.
+I actively explore DevOps fundamentals, cloud deployment workflows, and database-driven systems while also creating educational content focused on Electronics and Computer Science fundamentals.
 
 ---
 
@@ -38,7 +57,7 @@ I actively explore DevOps fundamentals, cloud deployment workflows, and database
 <p>
   <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge"/>
 </p>
 
