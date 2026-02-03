@@ -155,15 +155,18 @@ I run educational YouTube channels focused on simplifying complex engineering co
 
 ---
 
-## GitHub Analytics
+## GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethyne2666&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyne2666&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ethyne2666&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyne2666&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1" width="350"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=70&section=footer"/>
 </p>
