@@ -1,72 +1,85 @@
-<!-- Profile Banner -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=140&section=header&text=Charan%20Kumar&fontSize=48&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=160&section=header&text=Charan%20Kumar&fontSize=44&fontColor=ffffff" />
 </p>
 
-<h2 align="center">B.Tech Electronics and Communication Engineering Student</h2>
+<h3 align="center">Full Stack Developer | ECE Undergraduate | Tech Content Creator</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">LinkedIn</a> |
-  <a href="https://github.com/ethyne2666">GitHub</a>
+  <a href="https://github.com/ethyne2666">GitHub</a> •
+  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">LinkedIn</a>
 </p>
 
 ---
 
 ## About Me
 
-I am Charan Kumar, a B.Tech student in Electronics and Communication Engineering at IIIT Kalyani.  
-My interests lie at the intersection of hardware and software, with a focus on embedded systems, RF energy harvesting, VLSI fundamentals, and full stack development.  
+I am a passionate full stack developer and content creator currently pursuing Electronics and Communication Engineering at IIIT Kalyani.  
+I enjoy building complete systems, breaking down complex technologies, and explaining engineering concepts in a practical and approachable way.
 
-I actively build projects, experiment with simulations, and document my learning through repositories and technical content.
-
----
-
-## Areas of Interest
-
-- Embedded Systems and Microcontrollers  
-- RF Energy Harvesting and Impedance Matching  
-- VLSI and Digital Electronics  
-- Full Stack Development  
-- Applied Programming in C and C++  
+My work spans software development, electronics fundamentals, and educational content creation focused on real world understanding.
 
 ---
 
-## Technical Skills
+## Languages and Programming Skills
 
-### Programming Languages
-- C  
-- C++  
-- Python  
-- JavaScript  
-
-### Web and Backend Technologies
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
-</p>
-
-### DevOps and Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-0f172a?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 ---
 
-## Featured Work
+## Frameworks and Development Stacks
 
-- Embedded systems projects using Arduino and sensors  
-- RF energy harvesting research oriented simulations  
-- C and C++ algorithmic implementations  
-- Web based projects for learning backend and deployment workflows  
-
-Pinned repositories on my profile highlight selected work.
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-0f172a?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ---
 
-## GitHub Statistics
+## Tools and Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-0f172a?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-0f172a?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## AI and Automation
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable.ai-0f172a?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+</p>
+
+---
+
+## Content Creator and ECE Education
+
+I run a YouTube channel focused on simplifying Electronics and Communication Engineering topics.  
+My content covers Digital Electronics, Computer Architecture, core ECE subjects, and practical technology explanations aimed at students and early engineers.
+
+---
+
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ethyne2666&show_icons=true&theme=tokyonight" height="170"/>
@@ -75,13 +88,6 @@ Pinned repositories on my profile highlight selected work.
 
 ---
 
-## Connect With Me
-
-- GitHub: https://github.com/ethyne2666  
-- LinkedIn: https://www.linkedin.com/in/charan-kumar-ab5568311  
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
 </p>
