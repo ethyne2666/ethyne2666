@@ -86,48 +86,6 @@ I actively explore DevOps fundamentals, cloud deployment workflows, and database
 
 ---
 
-## Projects
-
-### Deal Drop | Price Tracker
-A full stack price tracking application that monitors product prices in real time.
-
-- Tracks price fluctuations and notifies users about changes
-- Responsive dashboard built using React and Tailwind CSS
-- Backend APIs for data processing and persistence
-
-Demo: https://your-demo-link  
-GitHub: https://github.com/ethyne2666/deal-drop
-
----
-
-### We Chat | Real Time Messaging App
-A real-time chat application using WebSocket-based communication.
-
-- Secure bidirectional communication between client and server
-- MongoDB used for message storage and persistence
-- Clean responsive UI designed with Tailwind CSS
-
-Demo: https://your-demo-link  
-GitHub: https://github.com/ethyne2666/we-chat
-
----
-
-## Experience and Hackathons
-
-### Team Lead | Dailybasis Status Code 2 Hackathon
-IIIT Kalyani
-
-- Led a team through the complete project lifecycle under strict deadlines
-- Managed task distribution and version control using Git
-- Coordinated frontend and backend development efforts
-
-### InnovateX Hackathon
-
-- Contributed to ideation and rapid prototyping of Deal Drop
-- Integrated AI-based logic for price trend analysis during the event
-
----
-
 ## Content Creator and Educator
 
 I run educational YouTube channels focused on simplifying complex engineering concepts.
@@ -135,23 +93,6 @@ I run educational YouTube channels focused on simplifying complex engineering co
 - Topics include Digital Electronics, Computer Architecture, Docker, Git, and core ECE subjects
 - Focus on conceptual clarity and real-world understanding
 - Content aimed at students and early career engineers
-
----
-
-## Certifications and Achievements
-
-- Career Essentials in Generative AI by Microsoft and LinkedIn
-- Robotics Competition achievement in maze path following and robot combat events
-
----
-
-## Soft Skills
-
-- Leadership and team coordination
-- Technical and written communication
-- Logical problem solving and debugging
-- Time management and adaptability
-- Continuous learning mindset
 
 ---
 
