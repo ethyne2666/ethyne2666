@@ -1,170 +1,18 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=190&section=header&text=Charan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethyne2666&bg_color=ffffff00&color=64748b&line=0f172a&point=0f172a&area=true&hide_border=true" alt="GitHub contribution activity" />
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> •
-  <strong>Tech Educator</strong> •
-  <strong>Research Oriented Engineer</strong>
-</p>
-
-<p align="center">
-  ECE Undergraduate at IIIT Kalyani
-</p>
-
-<p align="center">
-  <a href="https://github.com/ethyne2666">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/C++-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square"/>
+  <a href="https://github.com/ethyne2666">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">LinkedIn</a>
 </p>
 
 ---
 
+## About
 
-## Summary
+I build web applications and create educational content on computer science concepts.
 
-I am an undergraduate student at IIIT Kalyani with a strong focus on web development and software engineering.  
-My work involves building modern, scalable, and responsive applications using current frontend and backend technologies.
+## Technologies
 
-I actively explore DevOps fundamentals, cloud deployment workflows, and database-driven systems while also creating educational content focused on Electronics and Computer Science fundamentals.
-
----
-
-## Technical Skills
-
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge"/>
-</p>
-
-### Databases and Cloud
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-0f172a?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### DevOps and Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-0f172a?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## Content Creator and Educator
-
-I run educational YouTube channels focused on simplifying complex engineering concepts.
-
-- Topics include Digital Electronics, Computer Architecture, Docker, Git, and core ECE subjects
-- Focus on conceptual clarity and real-world understanding
-- Content aimed at students and early career engineers
-
----
-
-## Connect With Me
-
-<p align="center">
-  If you find my work interesting or useful, feel free to connect and follow me.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ethyne2666">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethyne2666&bg_color=00000000&color=38bdf8&line=38bdf8&point=0ea5e9&area=true&hide_border=true"/>
-</p>
-
----
-
-
-## GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ethyne2666&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-    width="420"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyne2666&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
-    width="350"
-  />
-</p>
-
----
-
-## Connect and Follow
-
-<p align="center">
-  If you are interested in my work, projects, or learning journey, feel free to connect with me.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ethyne2666">GitHub Profile</a> |
-  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">LinkedIn Profile</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=60"/>
-</p>
-
-<p align="center">
-  <strong>Charan Kumar</strong><br/>
-  ECE Undergraduate<br/>
-  IIIT Kalyani
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=90&section=footer"/>
-</p>
+JavaScript · React · Node.js · Express · MongoDB · C · C++ · Python · Docker · Git
