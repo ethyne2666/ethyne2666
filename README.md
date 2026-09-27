@@ -1,18 +1,6 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethyne2666&bg_color=ffffff00&color=64748b&line=0f172a&point=0f172a&area=true&hide_border=true" alt="GitHub contribution activity" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ethyne2666">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/charan-kumar-ab5568311">LinkedIn</a>
-</p>
+I’m a full-stack developer and B.Tech student at IIIT Kalyani. I build web applications with the MERN stack and Spring Boot, with an interest in backend development, APIs, authentication, and microservices.
 
----
+My projects include real-time messaging, job search, price tracking, and an AI-powered fitness platform built with Spring Boot microservices. I’m also learning about AI and machine learning, including LLM tools and how they can be used in practical software.
 
-## About
-
-I build web applications and create educational content on computer science concepts.
-
-## Technologies
-
-JavaScript · React · Node.js · Express · MongoDB · C · C++ · Python · Docker · Git
+Through NullLogic, I explain computer science and software topics such as Core Java, DSA, system design, Docker, AI tools, OpenClaw, and Ollama. My goal is to make technical ideas easier to understand and apply.
